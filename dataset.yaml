@@ -1,0 +1,5 @@
+path: C:\deeplearning\ultralytics-8.3.163\datasets\fall.v2i.yolov8
+train: train/images
+val: valid/images
+nc: 3
+names: ['fall','sit','walk']
